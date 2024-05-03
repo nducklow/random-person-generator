@@ -1,0 +1,13 @@
+Link js
+make HTML framework
+header
+Create a section with class of card
+within the card we will have an image and 5 fields (name, last name, address, DOB & Phone number)
+
+JavaScript
+Create variables that point towards the HTTML elements
+ create a fetch function
+ create variable for employee in a for loop
+ create HTML elements with js (name, last name, address, DOB & Phone number)
+ attach content to the element (include day.js for the DOB)
+ append to card class
